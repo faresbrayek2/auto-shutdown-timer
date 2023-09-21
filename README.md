@@ -13,14 +13,17 @@ Before running the script, ensure that you have the following:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/auto-shutdown-timer.git```
+   git clone https://github.com/yourusername/auto-shutdown-timer.git
+   ```
 
 2. Navigate to the project directory:
    ```shell
-   cd auto-shutdown-timer```
+   cd auto-shutdown-timer
+   ```
 3. Run the script:
    ```shell
-    python AutoShutdownTimer.py```
+    python AutoShutdownTimer.py
+   ```
 
 ## Usage
 
